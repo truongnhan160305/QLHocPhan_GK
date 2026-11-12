@@ -1,0 +1,10 @@
+[
+  { "IDGV": "1", "Fullname": "Trương Nhân", "Image": "", "SumClass": 2 },
+  { "IDGV": "2", "Fullname": "Đình Nhân", "Image": "", "SumClass": 3 },
+  { "IDGV": "3", "Fullname": "Nhân Trương", "Image": "", "SumClass": 4 },
+  { "IDGV": "4", "Fullname": "Trương Đình Nhân", "Image": "", "SumClass": 5 },
+  { "IDGV": "5", "Fullname": "Nhân Đình Trương", "Image": "", "SumClass": 2 },
+  { "IDGV": "6", "Fullname": "Đình Nhân Trương", "Image": "", "SumClass": 5 },
+  { "IDGV": "7", "Fullname": "Trương Nhân Đình", "Image": "", "SumClass": 7 },
+  { "IDGV": "8", "Fullname": "Nhân Đình Trương", "Image": "", "SumClass": 2 }
+]
